@@ -1,2 +1,2 @@
-# palpite-box
-Project built during Full Stack Master masterclass by devPleno
+# palpite-box-fullstackmaster
+App build in full stack master by devPleno

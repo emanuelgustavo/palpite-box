@@ -1,0 +1,25 @@
+{
+  "name": "palpite-box-fullstackmaster",
+  "version": "1.0.0",
+  "description": "App build in fullstackmaster course by devPleno",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": "https://github.com/emanuelgustavo/palpite-box-fullstackmaster.git",
+  "author": "Emanuel Gustavo Vierne <emanuelgustavovierne@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.8.4",
+    "google-spreadsheet": "^3.0.11",
+    "moment": "^2.27.0",
+    "next": "^9.4.4",
+    "postcss-import": "^12.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "swr": "^0.2.3",
+    "tailwindcss": "^1.4.6"
+  }
+}
